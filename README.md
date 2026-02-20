@@ -8,8 +8,8 @@ Chloe Kuntz
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/geo441_week2assignment_chloekuntz.ipynb)
-- [Multiple map frames in one map layout](https://colab.research.google.com/drive/1Llii5S3Gi3hsEKSz4jKUoEdec4d-h2sa?usp=drive_link)
+- [First map in ArcGIS Pro](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/basic-mapping/GEO441_541_Week1_Kuntz_Chloe.ipynb)
+- [Multiple map frames in one map layout](https://colab.research.google.com/drive/1sls5WOnXF5qSkcaEVHjkUOW250VnOrlU?usp=sharing)
 
 ## Map Coordinate Basics
 
