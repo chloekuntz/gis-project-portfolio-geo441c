@@ -18,3 +18,7 @@ Chloe Kuntz
 ## **Web Mapping**
 
 - This [StoryMap collection](https://arcg.is/PH0uy1) contains all maps I made using ArcGIS Online
+
+## **Raster Analysis**
+
+- This [notebook](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/raster-data-analysis/ndvi-change-thomas-fire.ipynb) shows raster analysis data applied to area affected by fire in California.
