@@ -25,4 +25,4 @@ Chloe Kuntz
 
 ## **Vector Analysis**
 
-- This [notebook](https://github.com/chloekuntz/gis-project-portfolio-geo441c/tree/main/vector-analysis) shows vector data analysis.
+- This [notebook](https://github.com/chloekuntz/gis-project-portfolio-geo441c/tree/main/vector-analysis) shows vector data analysis to create an age index map.
