@@ -21,4 +21,4 @@ Chloe Kuntz
 
 ## **Raster Analysis**
 
-- This [notebook](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/raster-data-analysis/ndvi-change-thomas-fire.ipynb) shows raster analysis data applied to area affected by fire in California.
+- This [notebook](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/raster-data-analysis/ndvi-change-thomas-fire.ipynb) shows raster data analysis applied to an area affected by fire in California.
