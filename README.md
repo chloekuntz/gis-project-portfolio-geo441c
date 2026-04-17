@@ -10,6 +10,7 @@ Chloe Kuntz
 
 - [First map in ArcGIS Pro](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/basic-mapping/GEO441_541_Week1_Kuntz_Chloe.ipynb)
 - [Multiple map frames in one map layout](https://colab.research.google.com/drive/1sls5WOnXF5qSkcaEVHjkUOW250VnOrlU?usp=sharing)
+- [Projecting geographic data](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/basic-mapping/week_03_assignment_template.ipynb)
 
 ## Map Coordinate Basics
 
