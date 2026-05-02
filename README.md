@@ -24,3 +24,7 @@ Chloe Kuntz
 ## **Vector Analysis**
 
 - This [notebook](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/vector-analysis/ChloeKuntz_week_05_assignment_template.ipynb) shows vector data analysis to create an age index map.
+
+## **Spatial Analysis**
+
+- This [notebook](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/vector-analysis/ChloeKuntz_week_05_assignment_template.ipynb) shows spatial data analysis to create a maps of the spread of cholera and maps made using Census data.
