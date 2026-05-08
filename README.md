@@ -31,4 +31,4 @@ Chloe Kuntz
 
 ## **Final Project**
 
-- You can view my the proposal and storymap of my final project [here.](https://github.com/chloekuntz/gis-project-portfolio-geo441c/tree/main/Final-Project)
+- You can view the [proposal](https://github.com/chloekuntz/gis-project-portfolio-geo441c/blob/main/Final-Project/GEO441_FinalProjectProposal.pdf) and [storymap](https://storymaps.arcgis.com/stories/04b93de5c9b545d88d5471815b5851f7) of my final project here.
