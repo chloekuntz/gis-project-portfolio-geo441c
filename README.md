@@ -29,6 +29,6 @@ Chloe Kuntz
 
 - This [folder](https://github.com/chloekuntz/gis-project-portfolio-geo441c/tree/main/spatial-analysis) shows spatial data analysis to create a maps of the spread of cholera and maps made using Census data.
 
-## **Spatial Analysis**
+## **Final Project**
 
 - You can view my the proposal and storymap of my final project [here.](https://github.com/chloekuntz/gis-project-portfolio-geo441c/tree/main/Final-Project)
